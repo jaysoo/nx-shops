@@ -66,5 +66,6 @@
   "parallel": 1,
   "useInferencePlugins": false,
   "defaultBase": "origin/main",
-  "nxCloudAccessToken": "OGUyMDdiYjQtOGVhMC00M2E2LWJlNDAtZjAxOTBkNmI1YjBkfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "OGUyMDdiYjQtOGVhMC00M2E2LWJlNDAtZjAxOTBkNmI1YjBkfHJlYWQtd3JpdGU=",
+  "bump": 1
 }
